@@ -1,0 +1,7 @@
+zone_id,period,estimated_elasticity,std_error,n_obs
+Airport_Corridor,Off-Peak,-1.02,0.003,1530
+Airport_Corridor,Peak (commute),-0.994,0.006,630
+Downtown_CBD,Off-Peak,-1.026,0.003,1530
+Downtown_CBD,Peak (commute),-0.996,0.006,630
+Suburban_Residential,Off-Peak,-1.045,0.004,1530
+Suburban_Residential,Peak (commute),-1.032,0.007,630
